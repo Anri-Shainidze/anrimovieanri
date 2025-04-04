@@ -240,7 +240,7 @@ console.log(recommend)
         <div className="map1">
           <h1>Trending</h1>
           {movie.map((movies, index) => (
-            <div key={index} className="movie">
+            <div key={index} className="idk">
               <div
                 className="first"
                 style={{
